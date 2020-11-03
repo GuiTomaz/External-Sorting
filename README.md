@@ -5,4 +5,7 @@ The external sorting works reading the binary file that will be sorted, splits t
 the output file. 
 If you have the file "numberslist", then the programm will generate "numberslist_MERGE" after processing.
 
-*Still needs updating to process .dat files.
+You can use the [Random File Operator](https://github.com/GuiTomaz/Random-File-Operator) to create and read binary files to test the external sorting algorithm.
+
+*Still needs updating to process .dat files.*
+
