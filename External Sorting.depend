@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604336308 source:c:\users\user\documents\projetos c\external sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
